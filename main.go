@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"https://github.com/jpillora/cloud-torrent/server"
-	"https://github.com/jpillora/opts"
+	"github.com/jpillora/cloud-torrent/server"
+	"github.com/jpillora/opts"
 )
 
 var VERSION = "0.0.0-src" //set with ldflags
